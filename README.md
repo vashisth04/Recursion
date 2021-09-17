@@ -1,3 +1,3 @@
 # Recursion
 Recursion 
-Print number from num to 1 using recursion
+Print number from 1 to num using recursion
